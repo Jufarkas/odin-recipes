@@ -24,3 +24,11 @@ div {
 .front-page {
     list-style: none;
 }
+
+h1 {
+    background-color: aquamarine;
+}
+
+.page-buttons {
+    background-color: rgb(78, 104, 255);
+}
