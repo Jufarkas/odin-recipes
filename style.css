@@ -3,6 +3,11 @@ img {
     width: 800px;
 }
 
+img.recipe {
+    height: auto;
+    width: 300px;
+}
+
 img.footer {
     height: auto;
     width: 480px;
@@ -14,4 +19,8 @@ div {
     font-size: 32px;
     text-align: center;
     font-weight: bold;
+}
+
+.front-page {
+    list-style: none;
 }
