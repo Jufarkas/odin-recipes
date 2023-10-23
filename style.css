@@ -1,16 +1,21 @@
-img {
+.front-page {
+    list-style: none;
+}
+
+
+.footer {
     height: auto;
+    width: 480px;
+}
+
+.recipe-page {
+    height: 460px;
     width: 800px;
 }
 
-img.recipe {
-    height: auto;
-    width: 300px;
-}
-
-img.footer {
-    height: auto;
-    width: 480px;
+.frontpage-button-img {
+    width: 400px;
+    height: 240px;
 }
 
 div h1 {
@@ -22,9 +27,6 @@ div h1 {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.front-page {
-    list-style: none;
-}
 
 h1 {
     background-color: rgb(255, 190, 129);
@@ -38,28 +40,4 @@ h1 {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     text-indent: 1%;
-}
-
-.chili-button {
-    height: 169px;
-    width: 300px;
-    padding: 0px;
-    border: solid thin;
-    margin: 10px;
-}
-
-.bmc-button {
-    height: 200px;
-    width: 300px;
-    padding: 0px;
-    border: solid thin;
-    margin: 10px;
-}
-
-.bbb-button {
-    height: 200px;
-    width: 300px;
-    padding: 0px;
-    border: solid thin;
-    margin: 10px;
 }
